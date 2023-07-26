@@ -27,7 +27,7 @@ export default function RootLayout({
           <div className="navbar-center">
             <ul>
               <li>
-                <Link href={"/about"}>About</Link>
+                <Link href={"/films"}>Films</Link>
               </li>
             </ul>
           </div>
